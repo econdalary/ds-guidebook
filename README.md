@@ -1,2 +1,2 @@
-# ds-guidebook
-Data Science Guidebook!  Comprehensive look into tools, standards and best practice from an individual contributor's perspective.
+# The Data Science Guidebook
+Comprehensive look into tools, standards and best practice from an individual data science contributor's perspective.
